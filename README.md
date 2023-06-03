@@ -37,3 +37,15 @@ SCREENSHOTS-
 
 ![Screenshot (170)](https://github.com/Rjsunny03/future-ready-talent-project/assets/126224504/ef1e09e1-06b3-436c-8aa7-7a9cde768abd)
 
+Tech Stack-
+
+1.Azure(Hosting)
+
+2.HTML
+
+3.CSS
+
+4.Bootstrap
+
+5.Javascript
+
