@@ -37,6 +37,8 @@ SCREENSHOTS-
 
 ![Screenshot (170)](https://github.com/Rjsunny03/future-ready-talent-project/assets/126224504/ef1e09e1-06b3-436c-8aa7-7a9cde768abd)
 
+![Screenshot (171)](https://github.com/Rjsunny03/future-ready-talent-project/assets/126224504/6a8e5e16-d8f7-41d9-a029-2c2b13afc20d)
+
 Tech Stack-
 
 1.Azure(Hosting)
