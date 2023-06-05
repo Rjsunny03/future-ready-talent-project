@@ -4,7 +4,7 @@ This web based application has been developed for the accomplishment of future R
 
 Project Azure Link- [https://happy-glacier-03a9ab810.3.azurestaticapps.net](https://happy-glacier-03a9ab810.3.azurestaticapps.net)
 
-Project demo video link-[]()
+Project demo video link-[https://youtu.be/cggHz_JHbyY](https://youtu.be/cggHz_JHbyY)
 
 Azure technologies used for Project-1.Static web apps  And   2.Cognitive services for language.
 
